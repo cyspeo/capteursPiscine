@@ -16,6 +16,8 @@ http://riton-duino.blogspot.com/2019/02/esp8266-sur-batterie.html
 
 https://community.home-assistant.io/t/outdoor-temperature-humidity-sensor-with-an-esp32-and-esphomeyaml/58147
 
+Un projet bien mené : https://www.cannaweed.com/forums/topic/213480-termin%C3%A9-mise-en-bo%C3%AEte-dun-mini-growduino/
+
 # BOM
 - Wemos D1 mini
 - pile CR123A
