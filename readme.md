@@ -67,7 +67,9 @@ void loop() {
 # Capteur DS18B20 (temperature water proof)
 voir : https://projetsdiy.fr/mesure-temperature-dallas-ds18b20-code-arduino-compatible-esp8266-esp32-domoticz-http/
  et surtout : https://www.carnetdumaker.net/articles/mesurer-une-temperature-avec-un-capteur-1-wire-ds18b20-et-une-carte-arduino-genuino/
+ 
  vdd +3v - +5.5v
+ 
  Mettre une resistance de tirage (4,7K) entre le bus et l'alimentation.
  
  
