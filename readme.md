@@ -73,4 +73,6 @@ voir : https://projetsdiy.fr/mesure-temperature-dallas-ds18b20-code-arduino-comp
  Mettre une resistance de tirage (4,7K) entre le bus et l'alimentation.
  
  
-
+# comunication arduino wemos
+https://andrologiciels.wordpress.com/materiels-android/esp8266/dialogue-arduino-esp/
+http://www.martyncurrey.com/arduino-to-esp8266-serial-commincation/
